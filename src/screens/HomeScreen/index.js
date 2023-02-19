@@ -89,7 +89,7 @@ function SideImage() {
                 lg: theme.space["x1/1"],
               },
             }}
-            src={SIDE_IMAGE_URL}
+            // src={SIDE_IMAGE_URL}
             alt="Treinamento com a roberta arcoverde no alura cases, falando sobre o stackoverflow"
           />
         </Box>
